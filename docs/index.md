@@ -11,4 +11,4 @@ This app lets you control a **Crazyflie 2.0 or 2.1** from an Android device via 
 You can also connect using the Crazyradio USB dongle via USB OTG, depending on your device.
 
 Available on Google Play:  
-https://play.google.com/store/apps/details?id=se.bitcraze.crazyfliecontrol2
+[https://play.google.com/store/apps/details?id=se.bitcraze.crazyfliecontrol2](https://play.google.com/store/apps/details?id=se.bitcraze.crazyfliecontrol2).
